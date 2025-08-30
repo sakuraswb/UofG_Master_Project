@@ -15,3 +15,5 @@ annotations/
 images/
 
 You can then run the corresponding tasks using different entry files.
+
+The download link of two datasets are https://challenge.isic-archive.com/landing/2017/  and https://www.robots.ox.ac.uk/~vgg/data/pets/
